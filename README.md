@@ -3,7 +3,7 @@
 ## RVC 설치하는 법
 https://github.com/dr87/Vonovox 에 있는
 <img width="918" height="735" alt="image" src="https://github.com/user-attachments/assets/15a798f2-7266-49a5-baf2-9ff46ab8138b" />
-Download ZIP 클릭
+<br>Download ZIP 클릭
 
 setup.bat 클릭 후 start.bat 클릭
 
