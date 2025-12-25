@@ -14,6 +14,7 @@ https://software.muzychenko.net/freeware/vac470lite.zip - Lite 버전 설치 후
 
 <details>
   <summary>Click to see English Guide</summary>
+  
   ## How to Install RVC
   Visit https://github.com/dr87/Vonovox.
   Click the [Code] button and select Download ZIP.
@@ -28,6 +29,7 @@ https://software.muzychenko.net/freeware/vac470lite.zip - Lite 버전 설치 후
 
 <details>
   <summary>日本語ガイドを表示</summary>
+  
   ## RVCのインストール方法
   https://github.com/dr87/Vonovox にアクセスします。
   [Code] ボタンをクリックし、Download ZIP を選択してダウンロードします。
